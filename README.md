@@ -66,3 +66,4 @@
 * [Tarte aux oignons caramélisés](http://www.undejeunerdesoleil.com/2012/02/tarte-aux-oignons-caramelises.html)
 * [Soupe de carottes, pomme et orange](http://www.undejeunerdesoleil.com/2011/10/soupe-de-carottes-pomme-et-orange-zuppa.html)
 * [Sauté de porc au caramel à la vietnamienne](http://www.hervecuisine.com/recette/saute-de-porc-au-caramel-a-la-vietnamienne/)
+* [Barquettes fondantes au chocolat et banane](http://www.chefnini.com/barquettes-fondantes-au-chocolat-et-banane/?random=1)
