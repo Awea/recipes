@@ -67,3 +67,8 @@
 * [Soupe de carottes, pomme et orange](http://www.undejeunerdesoleil.com/2011/10/soupe-de-carottes-pomme-et-orange-zuppa.html)
 * [Sauté de porc au caramel à la vietnamienne](http://www.hervecuisine.com/recette/saute-de-porc-au-caramel-a-la-vietnamienne/)
 * [Barquettes fondantes au chocolat et banane](http://www.chefnini.com/barquettes-fondantes-au-chocolat-et-banane/?random=1)
+* [Moussaka végétarienne libanaise](http://www.undejeunerdesoleil.com/2015/09/moussaka-vegetarienne-libanaise.html)
+* [Pollo e peperoni...marinati](http://www.undejeunerdesoleil.com/2010/06/pollo-e-peperonimarinati.html)
+* [Poule au pot Sauce Suprême](http://laraffinerieculinaire.com/poule-au-pot-sauce-supreme/)
+* [Pasta, patate e provola. Pâtes aux pommes de terre et scamorza fumée typiques de la Campanie](http://www.undejeunerdesoleil.com/2012/11/pasta-patate-e-provola-pates-aux-pommes.html)
+* [Poulet braisé à l'orange](http://www.undejeunerdesoleil.com/2015/02/poulet-braise-orange.html)
