@@ -1,5 +1,13 @@
 ## WIP
 
+* [Soupe aux nouilles ramen et au boeuf](http://www.ricardocuisine.com/recettes/5720-soupe-aux-nouilles-ramen-et-au-boeuf)
+* [Hamburgers de saumon](http://www.ricardocuisine.com/recettes/5361-hamburgers-de-saumon)
+* [Pad Thai](http://www.undejeunerdesoleil.com/2015/05/reussir-pad-thai-recette-astuces-ingredients-maison-thalilande.html)
+* [Velouté de chou blanc et comté](http://www.undejeunerdesoleil.com/2015/02/veloute-de-chou-blanc-et-comte.html?m=1)
+* [Rillettes de saumon fumé](http://www.undejeunerdesoleil.com/2015/12/rillettes-de-saumon-fume.html)
+* [Soupe de brocoli au bleu (ou au gorgonzola)](http://www.undejeunerdesoleil.com/2014/11/soupe-brocoli-bleu-ou-gorgonzola.html?m=1)
+* [Soupe poireaux fenouil et croûtons maison - Crema di porri e finocchi con crostini](http://www.undejeunerdesoleil.com/2011/11/soupe-poireaux-fenouil-et-croutons.html)
+* [Soupe de panais, topinambour, pomme et chèvre cendré](http://www.undejeunerdesoleil.com/2013/01/soupe-panais-topinambour-rotis-pomme-chevre-cendre.html)
 * [Pain de viande d'agneau (polpettone)](http://www.undejeunerdesoleil.com/2014/04/pain-de-viande-agneau-polpettone.html)
 * [Pulled Pork](http://www.christelleisflabbergasting.com/2013/01/sandwich-de-porc-effiloche-pulled-pork-au-four-miaaaaam.html)
 * [Côte de porc, sauce moutarde](http://www.undejeunerdesoleil.com/2015/01/cote-de-porc-sauce-moutarde.html)
