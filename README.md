@@ -1,5 +1,6 @@
 ## WIP
 
+* [Buns](https://github.com/sogilis/sogifood/blob/master/pains/buns.md)
 * [Soupe aux nouilles ramen et au boeuf](http://www.ricardocuisine.com/recettes/5720-soupe-aux-nouilles-ramen-et-au-boeuf)
 * [Hamburgers de saumon](http://www.ricardocuisine.com/recettes/5361-hamburgers-de-saumon)
 * [Pad Thai](http://www.undejeunerdesoleil.com/2015/05/reussir-pad-thai-recette-astuces-ingredients-maison-thalilande.html)
