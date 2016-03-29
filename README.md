@@ -81,3 +81,7 @@
 * [Poule au pot Sauce Suprême](http://laraffinerieculinaire.com/poule-au-pot-sauce-supreme/)
 * [Pasta, patate e provola. Pâtes aux pommes de terre et scamorza fumée typiques de la Campanie](http://www.undejeunerdesoleil.com/2012/11/pasta-patate-e-provola-pates-aux-pommes.html)
 * [Poulet braisé à l'orange](http://www.undejeunerdesoleil.com/2015/02/poulet-braise-orange.html)
+* [Cake à la banane et au golden syrup](http://www.undejeunerdesoleil.com/2015/09/cake-banane-golden-syrup.html)
+* [Risotto aux petits pois, risi e bisi comme à Venise](http://www.undejeunerdesoleil.com/2014/04/risotto-aux-petits-pois-risi-e-bisi.html)
+* [Recette du Meat Loaf - Pain de viande](http://www.recette-americaine.com/plat/meat-loaf-pain-de-viande.php)
+* [Gnocchi sardes au ragù de saucisse (Malloreddus alla Campidanese)](http://www.undejeunerdesoleil.com/2013/08/pates-gnocchi-sardes-ragu-saucisse-campidanese.html)
