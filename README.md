@@ -29,6 +29,7 @@
 * [Côte de porc, sauce moutarde](http://www.undejeunerdesoleil.com/2015/01/cote-de-porc-sauce-moutarde.html)
 * [Smoky Pork Sliders with BBQ Sauce - Gordon Ramsay](https://www.youtube.com/watch?v=tXS0RdlqhTo)
 * [Gnocchi sardes au ragù de saucisse (Malloreddus alla Campidanese)](http://www.undejeunerdesoleil.com/2013/08/pates-gnocchi-sardes-ragu-saucisse-campidanese.html)
+* [thịt kho củ cải](http://toinayangi.vn/cach-lam-mon-thit-kho-cu-cai-dua-com/)
 
 ### Gumes
 * [Tarte tatin aux tomates cerises et herbes de provence](http://www.hervecuisine.com/recette/tarte-tatin-aux-tomates-cerises-et-herbes-de-provence/)
@@ -37,6 +38,7 @@
 * [Épinards sautés aux raisins et pignons comme en Ligurie](http://www.undejeunerdesoleil.com/2013/03/epinards-sautes-raisins-pignons-genovese-Ligurie.html)
 * [Champignons sautés au fenouil et romarin](http://www.undejeunerdesoleil.com/2013/10/champignons-sautes-au-fenouil-et-romarin.html)
 * [Endives braisées à l'orange, thym et pignons](http://www.undejeunerdesoleil.com/2013/11/endives-braisees-orange.html)
+* [Taboulé](http://www.undejeunerdesoleil.com/2015/06/taboule.html)
 
 #### Salades
 * [Salade de pois chiches libanaise](http://www.undejeunerdesoleil.com/2015/07/salade-de-pois-chiches-libanaise.html?m=1)
@@ -74,6 +76,7 @@
 * [Soupe de carottes, pomme et orange](http://www.undejeunerdesoleil.com/2011/10/soupe-de-carottes-pomme-et-orange-zuppa.html)
 * [Barquettes fondantes au chocolat et banane](http://www.chefnini.com/barquettes-fondantes-au-chocolat-et-banane/?random=1)
 * [Cake à la banane et au golden syrup](http://www.undejeunerdesoleil.com/2015/09/cake-banane-golden-syrup.html)
+* [Brownie chocolat Blanc & Noix de coco](http://recettes-ateliers.over-blog.com/2014/11/brownie-chocolat-blanc-noix-de-coco.html)
 
 ### Autres
 * [Buns](https://github.com/sogilis/sogifood/blob/master/pains/buns.md)
@@ -116,4 +119,4 @@
 * [Gratin de pâtes à la courge butternut et mozzarella](http://www.undejeunerdesoleil.com/2015/10/gratin-pates-courge-butternut-mozzarella.html?m=0#more)
 * [Sauce à la bolognaise : le vrai ragù alla bolognese pour les lasagnes](http://www.undejeunerdesoleil.com/2013/02/sauce-bolognaise-ragu-bolognese-lasagnes-pasta.html)
 * [Taboulé de boulgour, tomates, orange et grenade](http://www.undejeunerdesoleil.com/2015/07/taboule-boulgour-tomates-orange-grenade.html)
-* [Taboulé](http://www.undejeunerdesoleil.com/2015/06/taboule.html)
+* [Porc au caramel au poivre (Thịt kho tiêu)](http://misstamkitchenette.com/porc-au-caramel-au-poivre-thit-kho-tieu/)
