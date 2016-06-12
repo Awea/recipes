@@ -77,11 +77,14 @@
 * [Barquettes fondantes au chocolat et banane](http://www.chefnini.com/barquettes-fondantes-au-chocolat-et-banane/?random=1)
 * [Cake à la banane et au golden syrup](http://www.undejeunerdesoleil.com/2015/09/cake-banane-golden-syrup.html)
 * [Brownie chocolat Blanc & Noix de coco](http://recettes-ateliers.over-blog.com/2014/11/brownie-chocolat-blanc-noix-de-coco.html)
+* [Torta caprese...aux noisettes et à la fleur d'oranger](http://www.undejeunerdesoleil.com/2009/03/torta-capreseaux-noisettes-et-la-fleur.html)
 
 ### Autres
 * [Buns](https://github.com/sogilis/sogifood/blob/master/pains/buns.md)
 * [Supplì all'amatriciana](http://www.undejeunerdesoleil.com/2011/11/suppli-allamatriciana-street-food.html)
 * [Fondue au fromage suisse (la meilleure)](http://www.ricardocuisine.com/recettes/5436-fondue-au-fromage-suisse-la-meilleure-)
+* [Tarte aux oignons caramélisés](http://www.undejeunerdesoleil.com/2012/02/tarte-aux-oignons-caramelises.html)
+  * **Note:** Gaffe aux proportions, il y en a deux fois trop (garniture)
 
 ### Todo
 * [Soupe aux nouilles ramen et au boeuf](http://www.ricardocuisine.com/recettes/5720-soupe-aux-nouilles-ramen-et-au-boeuf)
@@ -109,7 +112,7 @@
 * [Soupe toscane à l'épeautre](http://www.undejeunerdesoleil.com/2014/02/soupe-toscane-epeautre-minestra-farro.html)
 * [Chili classique](http://www.ricardocuisine.com/recettes/1027-chili-classique)
 * [Courgettes à l'aigre-doux comme en Sicile](http://www.undejeunerdesoleil.com/2015/08/courgettes-aigre-doux-sicilienne.html#more)
-* [Tarte aux oignons caramélisés](http://www.undejeunerdesoleil.com/2012/02/tarte-aux-oignons-caramelises.html)
+
 * [Moussaka végétarienne libanaise](http://www.undejeunerdesoleil.com/2015/09/moussaka-vegetarienne-libanaise.html)
 * [Pollo e peperoni...marinati](http://www.undejeunerdesoleil.com/2010/06/pollo-e-peperonimarinati.html)
 * [Poule au pot Sauce Suprême](http://laraffinerieculinaire.com/poule-au-pot-sauce-supreme/)
