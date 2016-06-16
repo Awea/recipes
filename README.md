@@ -5,6 +5,7 @@
 * [Rillettes de saumon fumé](http://www.undejeunerdesoleil.com/2015/12/rillettes-de-saumon-fume.html)
 * [Poisson gratiné à la sicilienne ](http://www.undejeunerdesoleil.com/2013/06/poisson-gratine-la-sicilienne.html)
 * [Recette du jambalaya aux crevettes](http://www.recette-americaine.com/plat/recette-jambalaya-crevettes.php)
+* [Oeufs durs farcis aux sardines, poivrons et tomates rôtis](http://www.undejeunerdesoleil.com/2015/08/oeufs-durs-farcis-sardines-poivrons-tomates-rotis.html?m=0)
 
 ### Viandes
 #### Beef
@@ -112,7 +113,6 @@
 * [Soupe toscane à l'épeautre](http://www.undejeunerdesoleil.com/2014/02/soupe-toscane-epeautre-minestra-farro.html)
 * [Chili classique](http://www.ricardocuisine.com/recettes/1027-chili-classique)
 * [Courgettes à l'aigre-doux comme en Sicile](http://www.undejeunerdesoleil.com/2015/08/courgettes-aigre-doux-sicilienne.html#more)
-
 * [Moussaka végétarienne libanaise](http://www.undejeunerdesoleil.com/2015/09/moussaka-vegetarienne-libanaise.html)
 * [Pollo e peperoni...marinati](http://www.undejeunerdesoleil.com/2010/06/pollo-e-peperonimarinati.html)
 * [Poule au pot Sauce Suprême](http://laraffinerieculinaire.com/poule-au-pot-sauce-supreme/)
@@ -123,3 +123,7 @@
 * [Sauce à la bolognaise : le vrai ragù alla bolognese pour les lasagnes](http://www.undejeunerdesoleil.com/2013/02/sauce-bolognaise-ragu-bolognese-lasagnes-pasta.html)
 * [Taboulé de boulgour, tomates, orange et grenade](http://www.undejeunerdesoleil.com/2015/07/taboule-boulgour-tomates-orange-grenade.html)
 * [Porc au caramel au poivre (Thịt kho tiêu)](http://misstamkitchenette.com/porc-au-caramel-au-poivre-thit-kho-tieu/)
+* [Torta di mele : gâteau toscan aux pommes](http://www.undejeunerdesoleil.com/2013/02/torta-di-mele-gateau-toscan-aux-pommes.html)
+* [Bocconotti, petits gâteaux calabrais](http://www.undejeunerdesoleil.com/2011/11/bocconotti-petits-gateaux-calabrais.html)
+* [Clafoutis de Gérard Mulot](http://www.undejeunerdesoleil.com/2010/06/clafoutis-de-gerard-mulot.html)
+* [Gâteau fondant tout pomme](http://www.undejeunerdesoleil.com/2015/01/gateau-fondant-tout-pomme-light.html)
