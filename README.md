@@ -12,6 +12,7 @@
 * [Boulettes de viande à la tomate et à la mozzarella](http://www.undejeunerdesoleil.com/2014/10/boulettes-viande-tomates-mozzarella.html?m=1)
 * [Recette du Meat Loaf - Pain de viande](http://www.recette-americaine.com/plat/meat-loaf-pain-de-viande.php)
 * [Soupe aux nouilles ramen et au boeuf](http://www.ricardocuisine.com/recettes/5720-soupe-aux-nouilles-ramen-et-au-boeuf)
+* [Courgettes farcies à la viande comme à Rome](http://www.undejeunerdesoleil.com/2014/09/courgettes-farcies-viande-rome.html)
 
 #### Poulet
 * [Œufs cocotte en cassolette feuilletée](http://gourmandisesansfrontieres.fr/2013/03/oeufs-cocotte-en-cassolette-feuilletee/)
@@ -19,6 +20,7 @@
 * [Riz aux œufs à la japonaise](http://gourmandisesansfrontieres.fr/2012/10/riz-aux-oeufs-a-la-japonaise/)
 * [Poulet Balti, sauce Hara Masala (au yaourt, pomme et gingembre)](http://www.undejeunerdesoleil.com/2012/06/poulet-balti-sauce-hara-masala-au.html)
 * [Poulet braisé à l'orange](http://www.undejeunerdesoleil.com/2015/02/poulet-braise-orange.html)
+* [Poulet sauté au citron vert](http://www.undejeunerdesoleil.com/2016/01/poulet-saute-citron-vert.html)
 
 #### Magneau
 * [Pain de viande d'agneau (polpettone)](http://www.undejeunerdesoleil.com/2014/04/pain-de-viande-agneau-polpettone.html)
