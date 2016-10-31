@@ -21,6 +21,7 @@
 * [Poulet Balti, sauce Hara Masala (au yaourt, pomme et gingembre)](http://www.undejeunerdesoleil.com/2012/06/poulet-balti-sauce-hara-masala-au.html)
 * [Poulet braisé à l'orange](http://www.undejeunerdesoleil.com/2015/02/poulet-braise-orange.html)
 * [Poulet sauté au citron vert](http://www.undejeunerdesoleil.com/2016/01/poulet-saute-citron-vert.html)
+* [Brochettes de poulet yakitori](http://www.undejeunerdesoleil.com/2016/05/brochettes-poulet-yakitori.html)
 
 #### Magneau
 * [Pain de viande d'agneau (polpettone)](http://www.undejeunerdesoleil.com/2014/04/pain-de-viande-agneau-polpettone.html)
@@ -72,6 +73,7 @@
 * [Pâtes au pesto d'herbes, pousses d'épinards et roquette](http://www.undejeunerdesoleil.com/2014/04/pates-pesto-herbes-epinards-roquette.html)
 * [Macaroni and cheese](http://www.undejeunerdesoleil.com/2011/11/macaroni-and-cheese.html)
 * [Linguine au mascarpone, courgettes, noix et citron](http://www.undejeunerdesoleil.com/2010/11/linguine-au-mascarpone-courgettes-noix.html)
+* [Pesto de courgettes](http://www.undejeunerdesoleil.com/2016/05/pesto-courgettes.html)
 
 ### Desserts
 * [Panna cotta aux marrons](http://www.undejeunerdesoleil.com/2014/12/panna-cotta-aux-marrons.html)
