@@ -36,6 +36,7 @@
 * [Gnocchi sardes au ragù de saucisse (Malloreddus alla Campidanese)](http://www.undejeunerdesoleil.com/2013/08/pates-gnocchi-sardes-ragu-saucisse-campidanese.html)
 * [thịt kho củ cải](http://toinayangi.vn/cach-lam-mon-thit-kho-cu-cai-dua-com/)
 * [Champignons farci à la brousse et au jambon](http://ltdv.over-blog.com/2015/04/champignons-farci-a-la-brousse-et-au-jambon.html)
+* [Gattò di patate, gratin de pommes de terre napolitain](http://www.undejeunerdesoleil.com/2013/11/gatto-patate-gratin-pommes-de-terre-napolitain.html)
 
 ### Gumes
 * [Tarte tatin aux tomates cerises et herbes de provence](http://www.hervecuisine.com/recette/tarte-tatin-aux-tomates-cerises-et-herbes-de-provence/)
