@@ -22,19 +22,20 @@
 * [Poulet braisé à l'orange](http://www.undejeunerdesoleil.com/2015/02/poulet-braise-orange.html)
 * [Poulet sauté au citron vert](http://www.undejeunerdesoleil.com/2016/01/poulet-saute-citron-vert.html)
 * [Brochettes de poulet yakitori](http://www.undejeunerdesoleil.com/2016/05/brochettes-poulet-yakitori.html)
+* [Oyako don](poulet/oyako_don.jpg)
 
 #### Magneau
 * [Pain de viande d'agneau (polpettone)](http://www.undejeunerdesoleil.com/2014/04/pain-de-viande-agneau-polpettone.html)
 * [Hamburger du Larzac](http://www.cuisine-campagne.com/index.php?post/2010/09/05/Hamburger-du-Larzac)
 * [Tava (agneau au four, pommes de terre et tomates typique de Cypre)](http://www.undejeunerdesoleil.com/2013/03/Tava-agneau-four-pommes-de-terre-tomates.html)
-* [Sauté de porc au caramel à la vietnamienne](http://www.hervecuisine.com/recette/saute-de-porc-au-caramel-a-la-vietnamienne/)
 
 #### Porc
 * [Pulled Pork](http://www.christelleisflabbergasting.com/2013/01/sandwich-de-porc-effiloche-pulled-pork-au-four-miaaaaam.html)
+* [Sauté de porc au caramel à la vietnamienne](http://www.hervecuisine.com/recette/saute-de-porc-au-caramel-a-la-vietnamienne/)
 * [Côte de porc, sauce moutarde](http://www.undejeunerdesoleil.com/2015/01/cote-de-porc-sauce-moutarde.html)
 * [Smoky Pork Sliders with BBQ Sauce - Gordon Ramsay](https://www.youtube.com/watch?v=tXS0RdlqhTo)
 * [Gnocchi sardes au ragù de saucisse (Malloreddus alla Campidanese)](http://www.undejeunerdesoleil.com/2013/08/pates-gnocchi-sardes-ragu-saucisse-campidanese.html)
-* [thịt kho củ cải](http://toinayangi.vn/cach-lam-mon-thit-kho-cu-cai-dua-com/)
+* [thịt kho củ cải](porc/thit-kho-cu-cai.md)
 * [Champignons farci à la brousse et au jambon](http://ltdv.over-blog.com/2015/04/champignons-farci-a-la-brousse-et-au-jambon.html)
 * [Gattò di patate, gratin de pommes de terre napolitain](http://www.undejeunerdesoleil.com/2013/11/gatto-patate-gratin-pommes-de-terre-napolitain.html)
 
@@ -52,7 +53,7 @@
 * [Salade d'aubergines rôties et feta](http://www.undejeunerdesoleil.com/2014/07/salade-aubergines-roties-et-feta.html)
 * [Salade grecque](http://www.undejeunerdesoleil.com/2014/06/salade-grecque.html)
 * [La salade niçoise, la vraie !](http://www.lemanger.fr/index.php/salade-nicoise-vraie/?utm_content=buffer67036&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-* [Salade César - Caesar salad](http://www.undejeunerdesoleil.com/2011/11/salade-cesar-caesar-salad.html)
+* [Salade César](http://www.undejeunerdesoleil.com/2011/11/salade-cesar-caesar-salad.html)
 
 #### Toupes
 * [Soupe de brocoli au bleu (ou au gorgonzola)](http://www.undejeunerdesoleil.com/2014/11/soupe-brocoli-bleu-ou-gorgonzola.html?m=1)
@@ -86,6 +87,7 @@
 * [Cake à la banane et au golden syrup](http://www.undejeunerdesoleil.com/2015/09/cake-banane-golden-syrup.html)
 * [Brownie chocolat Blanc & Noix de coco](http://recettes-ateliers.over-blog.com/2014/11/brownie-chocolat-blanc-noix-de-coco.html)
 * [Torta caprese...aux noisettes et à la fleur d'oranger](http://www.undejeunerdesoleil.com/2009/03/torta-capreseaux-noisettes-et-la-fleur.html)
+* [Crumble](desserts/crumble.md)
 
 ### Autres
 * [Buns](https://github.com/sogilis/sogifood/blob/master/pains/buns.md)
