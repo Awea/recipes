@@ -6,6 +6,7 @@
 * [Poisson gratiné à la sicilienne ](http://www.undejeunerdesoleil.com/2013/06/poisson-gratine-la-sicilienne.html)
 * [Recette du jambalaya aux crevettes](http://www.recette-americaine.com/plat/recette-jambalaya-crevettes.php)
 * [Oeufs durs farcis aux sardines, poivrons et tomates rôtis](http://www.undejeunerdesoleil.com/2015/08/oeufs-durs-farcis-sardines-poivrons-tomates-rotis.html?m=0)
+* [Croquettes de pommes de terre et saumon](http://www.undejeunerdesoleil.com/2015/10/croquettes-pommes-de-terre-saumon.html?m=0)
 
 ### Viandes
 #### Beef
@@ -13,6 +14,7 @@
 * [Recette du Meat Loaf - Pain de viande](http://www.recette-americaine.com/plat/meat-loaf-pain-de-viande.php)
 * [Soupe aux nouilles ramen et au boeuf](http://www.ricardocuisine.com/recettes/5720-soupe-aux-nouilles-ramen-et-au-boeuf)
 * [Courgettes farcies à la viande comme à Rome](http://www.undejeunerdesoleil.com/2014/09/courgettes-farcies-viande-rome.html)
+* [Hachis parmentier](http://www.cuisine-pied-noir.com/recette/recette_5788_hachis-html/)
 
 #### Poulet
 * [Œufs cocotte en cassolette feuilletée](http://gourmandisesansfrontieres.fr/2013/03/oeufs-cocotte-en-cassolette-feuilletee/)
@@ -23,6 +25,8 @@
 * [Poulet sauté au citron vert](http://www.undejeunerdesoleil.com/2016/01/poulet-saute-citron-vert.html)
 * [Brochettes de poulet yakitori](http://www.undejeunerdesoleil.com/2016/05/brochettes-poulet-yakitori.html)
 * [Oyako don](poulet/oyako_don.jpg)
+* [Poulet gratiné à la moutarde, pain d'épices et amandes](http://www.undejeunerdesoleil.com/2013/02/poulet-gratin-moutarde-pain-epices-amandes.html)
+* [Poulet à l’orange croustillant façon Panda Express](https://www.hervecuisine.com/recette/poulet-croustillant-a-lorange-facon-panda-express/)
 
 #### Magneau
 * [Pain de viande d'agneau (polpettone)](http://www.undejeunerdesoleil.com/2014/04/pain-de-viande-agneau-polpettone.html)
@@ -47,6 +51,7 @@
 * [Champignons sautés au fenouil et romarin](http://www.undejeunerdesoleil.com/2013/10/champignons-sautes-au-fenouil-et-romarin.html)
 * [Endives braisées à l'orange, thym et pignons](http://www.undejeunerdesoleil.com/2013/11/endives-braisees-orange.html)
 * [Taboulé](http://www.undejeunerdesoleil.com/2015/06/taboule.html)
+* [Gratin de patate douce à la mimolette et poivre long](www.undejeunerdesoleil.com/2009/10/gratin-de-patate-douce-la-mimolette-e.html)
 
 #### Salades
 * [Salade de pois chiches libanaise](http://www.undejeunerdesoleil.com/2015/07/salade-de-pois-chiches-libanaise.html?m=1)
@@ -77,6 +82,10 @@
 * [Linguine au mascarpone, courgettes, noix et citron](http://www.undejeunerdesoleil.com/2010/11/linguine-au-mascarpone-courgettes-noix.html)
 * [Pesto de courgettes](http://www.undejeunerdesoleil.com/2016/05/pesto-courgettes.html)
 
+### Riz
+* [Risotto aux quatre fromages](http://www.undejeunerdesoleil.com/2017/01/risotto-quatre-fromages.html)
+* [Riz cool](riz/riz-cool.md)
+
 ### Desserts
 * [Panna cotta aux marrons](http://www.undejeunerdesoleil.com/2014/12/panna-cotta-aux-marrons.html)
 * [Pancakes](http://www.hervecuisine.com/recette/pancakes-authentiques-au-sirop-derable/)
@@ -88,6 +97,9 @@
 * [Brownie chocolat Blanc & Noix de coco](http://recettes-ateliers.over-blog.com/2014/11/brownie-chocolat-blanc-noix-de-coco.html)
 * [Torta caprese...aux noisettes et à la fleur d'oranger](http://www.undejeunerdesoleil.com/2009/03/torta-capreseaux-noisettes-et-la-fleur.html)
 * [Crumble](desserts/crumble.md)
+* [Fondant au citron](desserts/fondant-citron.md)
+* [Crêpes](https://www.hervecuisine.com/recette/recette-crepe-facile/)
+* [Cake à la semoule, marmelade d'orange et coco](http://www.undejeunerdesoleil.com/2016/01/cake-semoule-marmelade-orange-coco.html)
 
 ### Autres
 * [Buns](https://github.com/sogilis/sogifood/blob/master/pains/buns.md)
@@ -95,6 +107,7 @@
 * [Fondue au fromage suisse (la meilleure)](http://www.ricardocuisine.com/recettes/5436-fondue-au-fromage-suisse-la-meilleure-)
 * [Tarte aux oignons caramélisés](http://www.undejeunerdesoleil.com/2012/02/tarte-aux-oignons-caramelises.html)
   * **Note:** Gaffe aux proportions, il y en a deux fois trop (garniture)
+* [Pâte à pizza](https://www.ricardocuisine.com/recettes/2049-pate-a-pizza-maison)
 
 ### Todo
 * [Pad Thai](http://www.undejeunerdesoleil.com/2015/05/reussir-pad-thai-recette-astuces-ingredients-maison-thalilande.html)
