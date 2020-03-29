@@ -6,6 +6,7 @@
 * [Gratin de patate douce à la mimolette et poivre long](www.undejeunerdesoleil.com/2009/10/gratin-de-patate-douce-la-mimolette-e.html)
 * [Gratin de pommes de terre, cèpes et aubergines](http://www.undejeunerdesoleil.com/2012/10/gratin-de-pommes-de-terre-cepes-et.html)
 * [Parmigiana d'aubergines classique](http://www.undejeunerdesoleil.com/2013/07/parmigiana-aubergines-classique.html)
+* [Pâté aux pommes de terre](https://www.chefnini.com/pate-aux-pommes-de-terre/)
 * [Taboulé](http://www.undejeunerdesoleil.com/2015/06/taboule.html)
 * [Tarte tatin aux tomates cerises et herbes de provence](http://www.hervecuisine.com/recette/tarte-tatin-aux-tomates-cerises-et-herbes-de-provence/)
 * [Tomates farcies sans viande comme en Ligurie](http://www.undejeunerdesoleil.com/2016/09/tomates-farcies-sans-viande-ligurie.html)
@@ -96,6 +97,7 @@
 * [Pâte à pizza](https://www.ricardocuisine.com/recettes/2049-pate-a-pizza-maison)
 * [Seroendeng - Condiment indonésien noix de coco et cacahuètes](http://www.mavegetable.com/archives/2014/11/02/30877398.html)
 * [Supplì all'amatriciana](http://www.undejeunerdesoleil.com/2011/11/suppli-allamatriciana-street-food.html)
+* [Flamiche au maroilles](https://cuisine-libre.fr/tarte-au-maroilles)
 * [Tarte aux oignons caramélisés](http://www.undejeunerdesoleil.com/2012/02/tarte-aux-oignons-caramelises.html)
   * **Note:** Gaffe aux proportions, il y en a deux fois trop (garniture)
 
@@ -106,12 +108,16 @@
 * [Cake à la banane et au golden syrup](http://www.undejeunerdesoleil.com/2015/09/cake-banane-golden-syrup.html)
 * [Cake à la semoule, marmelade d'orange et coco](http://www.undejeunerdesoleil.com/2016/01/cake-semoule-marmelade-orange-coco.html)
 * [Caramel au beurre salé](http://laraffinerieculinaire.com/caramel-au-beurre-sale/)
+* [Cookies au chocolat, flocons d’avoine et noix](https://www.undejeunerdesoleil.com/2014/05/cookies-chocolat-flocons-avoine-noix.html)
+* [Cookies au chocolat et à l’huile d’olive](https://www.undejeunerdesoleil.com/2018/02/cookies-chocolat-huile-olive.html)
 * [Crumble](desserts/crumble.md)
 * [Crêpes](https://www.hervecuisine.com/recette/recette-crepe-facile/)
 * [Fondant au citron](desserts/fondant-citron.md)
+* [Molly cake au chocolat](https://blog.feeriecake.fr/molly-cake-chocolat/)
 * [Pancakes](http://www.hervecuisine.com/recette/pancakes-authentiques-au-sirop-derable/)
 * [Panna cotta aux marrons](http://www.undejeunerdesoleil.com/2014/12/panna-cotta-aux-marrons.html)
 * [Soupe de carottes, pomme et orange](http://www.undejeunerdesoleil.com/2011/10/soupe-de-carottes-pomme-et-orange-zuppa.html)
+* [Tarte aux prunes Reine-Claude](http://www.ptitecuisinedepauline.com/article-tarte-aux-prunes-reine-claude-109482822.html)
 * [Torta caprese...aux noisettes et à la fleur d'oranger](http://www.undejeunerdesoleil.com/2009/03/torta-capreseaux-noisettes-et-la-fleur.html)
 
 - - -
