@@ -120,6 +120,9 @@
 * [Tarte aux prunes Reine-Claude](http://www.ptitecuisinedepauline.com/article-tarte-aux-prunes-reine-claude-109482822.html)
 * [Torta caprese...aux noisettes et à la fleur d'oranger](http://www.undejeunerdesoleil.com/2009/03/torta-capreseaux-noisettes-et-la-fleur.html)
 
+### Apéro
+- [Caipirinha](https://www.ricardocuisine.com/recettes/3802-caipirinha)
+
 - - -
 
 ### Todo
