@@ -90,6 +90,7 @@
 * [Velouté de pommes de terre et persil](http://www.undejeunerdesoleil.com/2014/03/veloute-de-pommes-de-terre-et-persil.html)
 
 ### Autres
+* [Banh Mi](https://blog.carnetsdasie.com/banh-mi/)
 * [Buns](https://github.com/sogilis/sogifood/blob/master/pains/buns.md)
 * [Empanadas de viande](https://www.undejeunerdesoleil.com/2015/10/empanadas-de-viande.html)
 * [Flamiche au maroilles](https://cuisine-libre.fr/tarte-au-maroilles)
