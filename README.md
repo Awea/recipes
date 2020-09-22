@@ -4,6 +4,7 @@
 * [Champignons sautés au fenouil et romarin](http://www.undejeunerdesoleil.com/2013/10/champignons-sautes-au-fenouil-et-romarin.html)
 * [Endives braisées à l'orange, thym et pignons](http://www.undejeunerdesoleil.com/2013/11/endives-braisees-orange.html)
 * [Épinards sautés aux raisins et pignons comme en Ligurie](http://www.undejeunerdesoleil.com/2013/03/epinards-sautes-raisins-pignons-genovese-Ligurie.html)
+* [Galettes de courgette](legumes/galettes-de-courgette.md)
 * [Gratin de patate douce à la mimolette et poivre long](www.undejeunerdesoleil.com/2009/10/gratin-de-patate-douce-la-mimolette-e.html)
 * [Gratin de pommes de terre, cèpes et aubergines](http://www.undejeunerdesoleil.com/2012/10/gratin-de-pommes-de-terre-cepes-et.html)
 * [Parmigiana d'aubergines classique](http://www.undejeunerdesoleil.com/2013/07/parmigiana-aubergines-classique.html)
