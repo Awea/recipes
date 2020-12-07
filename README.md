@@ -9,7 +9,9 @@
 * [Gratin de pommes de terre, cèpes et aubergines](http://www.undejeunerdesoleil.com/2012/10/gratin-de-pommes-de-terre-cepes-et.html)
 * [Parmigiana d'aubergines classique](http://www.undejeunerdesoleil.com/2013/07/parmigiana-aubergines-classique.html)
 * [Pâté aux pommes de terre](https://www.chefnini.com/pate-aux-pommes-de-terre/)
+* [sauce tomate italienne](https://www.undejeunerdesoleil.com/2015/09/reussir-sauce-tomate-italienne-recettes-base-astuces-variantes.html)
 * [Taboulé](http://www.undejeunerdesoleil.com/2015/06/taboule.html)
+* [Tarte rustique aux tomates et pesto](https://www.undejeunerdesoleil.com/2017/08/tarte-rustique-tomates-pesto.html)
 * [Tarte tatin aux tomates cerises et herbes de provence](http://www.hervecuisine.com/recette/tarte-tatin-aux-tomates-cerises-et-herbes-de-provence/)
 * [Tomates farcies sans viande comme en Ligurie](http://www.undejeunerdesoleil.com/2016/09/tomates-farcies-sans-viande-ligurie.html)
 * [Zaalouk (caviar d'aubergine à la marocaine)](http://www.recetteshanane.com/article-zaalouk-marocain-caviar-d-aubergine-69302891.html)
@@ -39,6 +41,7 @@
 * [Soupe aux nouilles ramen et au boeuf](http://www.ricardocuisine.com/recettes/5720-soupe-aux-nouilles-ramen-et-au-boeuf)
 
 #### Magneau
+* [Couscous avec sauce tomate, poivrons et merguez](https://www.undejeunerdesoleil.com/2015/06/couscous-sauce-tomate-poivrons-merguez.html)
 * [Hamburger du Larzac](http://www.cuisine-campagne.com/index.php?post/2010/09/05/Hamburger-du-Larzac)
 * [Pain de viande d'agneau (polpettone)](http://www.undejeunerdesoleil.com/2014/04/pain-de-viande-agneau-polpettone.html)
 * [Tava (agneau au four, pommes de terre et tomates typique de Cypre)](http://www.undejeunerdesoleil.com/2013/03/Tava-agneau-four-pommes-de-terre-tomates.html)
@@ -46,6 +49,7 @@
 #### Poulet
 * [Blanc de poulet facon tenders de kfc](http://www.lesfoodies.com/jesscuisto/recette/blanc-poulet-facon-tenders-kfc)
 * [Brochettes de poulet yakitori](http://www.undejeunerdesoleil.com/2016/05/brochettes-poulet-yakitori.html)
+* [Curry thaï de poulet](https://www.undejeunerdesoleil.com/2010/04/curry-thai-de-poulet.html)
 * [Oyako don](poulet/oyako_don.jpg)
 * [Poulet Balti, sauce Hara Masala (au yaourt, pomme et gingembre)](http://www.undejeunerdesoleil.com/2012/06/poulet-balti-sauce-hara-masala-au.html)
 * [Poulet braisé à l'orange](http://www.undejeunerdesoleil.com/2015/02/poulet-braise-orange.html)
