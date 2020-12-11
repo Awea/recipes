@@ -114,6 +114,7 @@
 * [Cake à la banane et au golden syrup](http://www.undejeunerdesoleil.com/2015/09/cake-banane-golden-syrup.html)
 * [Cake à la semoule, marmelade d'orange et coco](http://www.undejeunerdesoleil.com/2016/01/cake-semoule-marmelade-orange-coco.html)
 * [Caramel au beurre salé](http://laraffinerieculinaire.com/caramel-au-beurre-sale/)
+* [Charlotte aux fruits rouges](desserts/charlotte-aux-fruits-rouges.jpg)
 * [Cookies au chocolat, flocons d’avoine et noix](https://www.undejeunerdesoleil.com/2014/05/cookies-chocolat-flocons-avoine-noix.html)
 * [Cookies au chocolat et à l’huile d’olive](https://www.undejeunerdesoleil.com/2018/02/cookies-chocolat-huile-olive.html)
 * [Crumble](desserts/crumble.md)
