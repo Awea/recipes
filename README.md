@@ -2,6 +2,7 @@
 
 ### Gumes
 * [Champignons sautés au fenouil et romarin](http://www.undejeunerdesoleil.com/2013/10/champignons-sautes-au-fenouil-et-romarin.html)
+* [Dahl de lentilles corail](https://cuisine-addict.com/dahl-lentilles-corail/)
 * [Endives braisées à l'orange, thym et pignons](http://www.undejeunerdesoleil.com/2013/11/endives-braisees-orange.html)
 * [Épinards sautés aux raisins et pignons comme en Ligurie](http://www.undejeunerdesoleil.com/2013/03/epinards-sautes-raisins-pignons-genovese-Ligurie.html)
 * [Galettes de courgette](legumes/galettes-de-courgette.md)
