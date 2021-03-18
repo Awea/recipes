@@ -95,6 +95,9 @@
 * [Velouté de courgettes à la Vache Qui Rit](http://www.unetortuedanslacuisine.fr/veloute-de-courgettes-a-la-vache-qui-rit/)
 * [Velouté de pommes de terre et persil](http://www.undejeunerdesoleil.com/2014/03/veloute-de-pommes-de-terre-et-persil.html)
 
+### Sauces
+* [Vinaigrette](sauces/vinaigrette.md)
+
 ### Autres
 * [Banh Mi](https://blog.carnetsdasie.com/banh-mi/)
 * [Buns](https://github.com/sogilis/sogifood/blob/master/pains/buns.md)
