@@ -175,3 +175,4 @@
 * [Soupe toscane à l'épeautre](http://www.undejeunerdesoleil.com/2014/02/soupe-toscane-epeautre-minestra-farro.html)
 * [Taboulé de boulgour, tomates, orange et grenade](http://www.undejeunerdesoleil.com/2015/07/taboule-boulgour-tomates-orange-grenade.html)
 * [Torta di mele : gâteau toscan aux pommes](http://www.undejeunerdesoleil.com/2013/02/torta-di-mele-gateau-toscan-aux-pommes.html)
+* [Aubergines rôties à la Japonaise](https://www.undejeunerdesoleil.com/2016/07/aubergines-roties-japonaise.html)
