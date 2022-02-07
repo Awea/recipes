@@ -10,6 +10,7 @@
 * [Gratin de pommes de terre, cèpes et aubergines](http://www.undejeunerdesoleil.com/2012/10/gratin-de-pommes-de-terre-cepes-et.html)
 * [Parmigiana d'aubergines classique](http://www.undejeunerdesoleil.com/2013/07/parmigiana-aubergines-classique.html)
 * [Pâté aux pommes de terre](https://www.chefnini.com/pate-aux-pommes-de-terre/)
+* [Sauce du couscous](https://www.la-cuisine-marocaine.com/forum/sujet-980-sauce-couscous)
 * [sauce tomate italienne](https://www.undejeunerdesoleil.com/2015/09/reussir-sauce-tomate-italienne-recettes-base-astuces-variantes.html)
 * [Taboulé](http://www.undejeunerdesoleil.com/2015/06/taboule.html)
 * [Tarte rustique aux tomates et pesto](https://www.undejeunerdesoleil.com/2017/08/tarte-rustique-tomates-pesto.html)
