@@ -107,7 +107,7 @@
 * [Fondue au fromage suisse (la meilleure)](http://www.ricardocuisine.com/recettes/5436-fondue-au-fromage-suisse-la-meilleure-)
 * [Limoncello maison](http://www.undejeunerdesoleil.com/2013/10/limoncello-maison.html)
 * [Pâte à pizza](https://www.ricardocuisine.com/recettes/2049-pate-a-pizza-maison)
-* [Seroendeng - Condiment indonésien noix de coco et cacahuètes](http://www.mavegetable.com/archives/2014/11/02/30877398.html)
+* [Seroendeng - Condiment indonésien noix de coco et cacahuètes](https://web.archive.org/web/20200204162632/https://mavegetable.com/archives/2014/11/02/30877398.html)
 * [Supplì all'amatriciana](http://www.undejeunerdesoleil.com/2011/11/suppli-allamatriciana-street-food.html)
 * [Tarte aux oignons caramélisés](http://www.undejeunerdesoleil.com/2012/02/tarte-aux-oignons-caramelises.html)
   * **Note:** Gaffe aux proportions, il y en a deux fois trop (garniture)
