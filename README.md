@@ -49,6 +49,7 @@
 * [Tava (agneau au four, pommes de terre et tomates typique de Cypre)](http://www.undejeunerdesoleil.com/2013/03/Tava-agneau-four-pommes-de-terre-tomates.html)
 
 #### Poulet
+* [Banh Mi](https://www.ricardocuisine.com/recettes/6770-sandwich-au-poulet-a-la-vietnamienne)
 * [Blanc de poulet facon tenders de kfc](http://www.lesfoodies.com/jesscuisto/recette/blanc-poulet-facon-tenders-kfc)
 * [Brochettes de poulet yakitori](http://www.undejeunerdesoleil.com/2016/05/brochettes-poulet-yakitori.html)
 * [Curry thaï de poulet](https://www.undejeunerdesoleil.com/2010/04/curry-thai-de-poulet.html)
@@ -100,7 +101,6 @@
 * [Vinaigrette](sauces/vinaigrette.md)
 
 ### Autres
-* [Banh Mi](https://blog.carnetsdasie.com/banh-mi/)
 * [Buns](https://github.com/sogilis/sogifood/blob/master/pains/buns.md)
 * [Empanadas de viande](https://www.undejeunerdesoleil.com/2015/10/empanadas-de-viande.html)
 * [Flamiche au maroilles](https://cuisine-libre.fr/tarte-au-maroilles)
