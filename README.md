@@ -4,10 +4,10 @@
 * [Champignons sautés au fenouil et romarin](http://www.undejeunerdesoleil.com/2013/10/champignons-sautes-au-fenouil-et-romarin.html)
 * [Dahl de lentilles corail](https://cuisine-addict.com/dahl-lentilles-corail/)
 * [Endives braisées à l'orange, thym et pignons](http://www.undejeunerdesoleil.com/2013/11/endives-braisees-orange.html)
-* [Épinards sautés aux raisins et pignons comme en Ligurie](http://www.undejeunerdesoleil.com/2013/03/epinards-sautes-raisins-pignons-genovese-Ligurie.html)
 * [Galettes de courgette](legumes/galettes-de-courgette.md)
 * [Gratin de patate douce à la mimolette et poivre long](http://www.undejeunerdesoleil.com/2009/10/gratin-de-patate-douce-la-mimolette-e.html)
 * [Gratin de pommes de terre, cèpes et aubergines](http://www.undejeunerdesoleil.com/2012/10/gratin-de-pommes-de-terre-cepes-et.html)
+* [Haricots rouges à la créole](https://www.marmiton.org/recettes/recette_haricots-rouges-a-la-creole_20879.aspx)
 * [Parmigiana d'aubergines classique](http://www.undejeunerdesoleil.com/2013/07/parmigiana-aubergines-classique.html)
 * [Pâté aux pommes de terre](https://www.chefnini.com/pate-aux-pommes-de-terre/)
 * [Sauce du couscous](https://www.la-cuisine-marocaine.com/forum/sujet-980-sauce-couscous)
@@ -17,6 +17,7 @@
 * [Tarte tatin aux tomates cerises et herbes de provence](http://www.hervecuisine.com/recette/tarte-tatin-aux-tomates-cerises-et-herbes-de-provence/)
 * [Tomates farcies sans viande comme en Ligurie](http://www.undejeunerdesoleil.com/2016/09/tomates-farcies-sans-viande-ligurie.html)
 * [Zaalouk (caviar d'aubergine à la marocaine)](http://www.recetteshanane.com/article-zaalouk-marocain-caviar-d-aubergine-69302891.html)
+* [Épinards sautés aux raisins et pignons comme en Ligurie](http://www.undejeunerdesoleil.com/2013/03/epinards-sautes-raisins-pignons-genovese-Ligurie.html)
 
 ### Pâtes
 * [Linguine au mascarpone, courgettes, noix et citron](http://www.undejeunerdesoleil.com/2010/11/linguine-au-mascarpone-courgettes-noix.html)
