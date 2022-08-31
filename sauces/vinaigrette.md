@@ -1,4 +1,4 @@
-- 3 cuillères à soupe de Tahine
+- 3 cuillères à soupe de tahini
 - Un peu de vinaigre balsamique
 - De l’huile d’olive 
 - Sel 
