@@ -86,7 +86,7 @@
 
 #### Toupes
 * [Dip crème de courge butternut et oignons rôtis](http://www.undejeunerdesoleil.com/2015/02/dip-courge-butternut-potimarron-oignons-rotis.html)
-* [Soupe de brocoli au bleu (ou au gorgonzola)](http://www.undejeunerdesoleil.com/2014/11/soupe-brocoli-bleu-ou-gorgonzola.html?m=1)
+* [Soupe de brocoli au bleu (ou au gorgonzola)](https://www.undejeunerdesoleil.com/2014/11/soupe-brocoli-bleu-ou-gorgonzola.html)
 * [Soupe de carottes violettes](http://www.undejeunerdesoleil.com/2016/02/soupe-de-carottes-violettes.html?m=0)
 * [Soupe de chou et salami piquant](http://www.undejeunerdesoleil.com/2012/01/soupe-de-chou-et-salami-piquant-zuppa.html)
 * [Soupe de chou-fleur rôti](http://www.undejeunerdesoleil.com/2014/01/soupe-de-chou-fleur-roti.html)
