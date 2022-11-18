@@ -102,6 +102,7 @@
 * [Vinaigrette](sauces/vinaigrette.md)
 
 ### Autres
+* [Cake italien jambon, olives, câpre](http://www.hervecuisine.com/recette/cake-italien/)
 * [Buns](https://github.com/sogilis/sogifood/blob/master/pains/buns.md)
 * [Empanadas de viande](https://www.undejeunerdesoleil.com/2015/10/empanadas-de-viande.html)
 * [Flamiche au maroilles](https://cuisine-libre.fr/tarte-au-maroilles)
@@ -142,7 +143,6 @@
 * [Alloco](http://www.afrik-cuisine.com/recettes/alloco)
 * [Aubergines farcies de viande à l'italienne](http://www.undejeunerdesoleil.com/2015/08/aubergines-farcies-de-viande-a-italienne.html#more)
 * [Bocconotti, petits gâteaux calabrais](http://www.undejeunerdesoleil.com/2011/11/bocconotti-petits-gateaux-calabrais.html)
-* [Cake italien jambon, olives, câpre](http://www.hervecuisine.com/recette/cake-italien/)
 * [Chili classique](http://www.ricardocuisine.com/recettes/1027-chili-classique)
 * [Cianfotta, la ratatouille napolitaine](http://www.undejeunerdesoleil.com/2013/07/cianfotta-la-ratatouille-napolitaine.html)
 * [Clafoutis de Gérard Mulot](http://www.undejeunerdesoleil.com/2010/06/clafoutis-de-gerard-mulot.html)
