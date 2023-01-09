@@ -6,6 +6,7 @@
 * [Endives braisées à l'orange, thym et pignons](http://www.undejeunerdesoleil.com/2013/11/endives-braisees-orange.html)
 * [Galettes de courgette](legumes/galettes-de-courgette.md)
 * [Gratin de patate douce à la mimolette et poivre long](http://www.undejeunerdesoleil.com/2009/10/gratin-de-patate-douce-la-mimolette-e.html)
+* [Gratin de poireaux au parmesan](https://www.lesfruitsetlegumesfrais.com/en-cuisine/recettes/gratin-de-poireaux-au-parmesan)
 * [Gratin de pommes de terre, cèpes et aubergines](http://www.undejeunerdesoleil.com/2012/10/gratin-de-pommes-de-terre-cepes-et.html)
 * [Haricots rouges à la créole](https://www.marmiton.org/recettes/recette_haricots-rouges-a-la-creole_20879.aspx)
 * [Parmigiana d'aubergines classique](http://www.undejeunerdesoleil.com/2013/07/parmigiana-aubergines-classique.html)
@@ -133,6 +134,7 @@
 * [Soupe de carottes, pomme et orange](http://www.undejeunerdesoleil.com/2011/10/soupe-de-carottes-pomme-et-orange-zuppa.html)
 * [Tarte aux prunes Reine-Claude](http://www.ptitecuisinedepauline.com/article-tarte-aux-prunes-reine-claude-109482822.html)
 * [Torta caprese...aux noisettes et à la fleur d'oranger](http://www.undejeunerdesoleil.com/2009/03/torta-capreseaux-noisettes-et-la-fleur.html)
+* [Wacky cake](https://www.healthyjulia.com/2019/01/wacky-cake-ou-gateau-sans-rien-vegan.html?m=1)
 
 ### Apéro
 - [Caipirinha](https://www.ricardocuisine.com/recettes/3802-caipirinha)
