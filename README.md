@@ -109,6 +109,7 @@
 * [Empanadas de viande](https://www.undejeunerdesoleil.com/2015/10/empanadas-de-viande.html)
 * [Flamiche au maroilles](https://cuisine-libre.fr/tarte-au-maroilles)
 * [Fondue au fromage suisse (la meilleure)](http://www.ricardocuisine.com/recettes/5436-fondue-au-fromage-suisse-la-meilleure-)
+* [La quiche du frigo…italien](https://www.undejeunerdesoleil.com/2010/02/la-quiche-du-frigoitalien.html)
 * [Limoncello maison](http://www.undejeunerdesoleil.com/2013/10/limoncello-maison.html)
 * [Pâte à pizza](https://www.ricardocuisine.com/recettes/2049-pate-a-pizza-maison)
 * [Seroendeng - Condiment indonésien noix de coco et cacahuètes](https://web.archive.org/web/20200204162632/https://mavegetable.com/archives/2014/11/02/30877398.html)
