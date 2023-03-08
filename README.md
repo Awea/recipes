@@ -2,7 +2,7 @@
 
 ### Gumes
 * [Champignons sautés au fenouil et romarin](http://www.undejeunerdesoleil.com/2013/10/champignons-sautes-au-fenouil-et-romarin.html)
-* [Dahl de lentilles corail](https://cuisine-addict.com/dahl-lentilles-corail/)
+* [Dal de lentilles coco](https://www.undejeunerdesoleil.com/2015/09/dal-lentilles-coco.html)
 * [Endives braisées à l'orange, thym et pignons](http://www.undejeunerdesoleil.com/2013/11/endives-braisees-orange.html)
 * [Galettes de courgette](legumes/galettes-de-courgette.md)
 * [Gratin de patate douce à la mimolette et poivre long](http://www.undejeunerdesoleil.com/2009/10/gratin-de-patate-douce-la-mimolette-e.html)
@@ -126,6 +126,7 @@
 * [Caramel au beurre salé](http://laraffinerieculinaire.com/caramel-au-beurre-sale/)
 * [Charlotte aux fruits rouges](desserts/charlotte-aux-fruits-rouges.jpg)
 * [Cookies au chocolat, flocons d’avoine et noix](https://www.undejeunerdesoleil.com/2014/05/cookies-chocolat-flocons-avoine-noix.html)
+* [Cookies au chocolat](https://www.undejeunerdesoleil.com/2014/07/cookies-chocolat-parfaits-5-regles-d-or.html)
 * [Cookies au chocolat et à l’huile d’olive](https://www.undejeunerdesoleil.com/2018/02/cookies-chocolat-huile-olive.html)
 * [Crumble](desserts/crumble.md)
 * [Crêpes](https://www.hervecuisine.com/recette/recette-crepe-facile/)
