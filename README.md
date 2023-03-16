@@ -116,6 +116,7 @@
 * [Supplì all'amatriciana](http://www.undejeunerdesoleil.com/2011/11/suppli-allamatriciana-street-food.html)
 * [Tarte aux oignons caramélisés](http://www.undejeunerdesoleil.com/2012/02/tarte-aux-oignons-caramelises.html)
   * **Note:** Gaffe aux proportions, il y en a deux fois trop (garniture)
+* [Tofu du Général Tao](https://www.youtube.com/watch?app=desktop&v=nREnZ7__9zI)
 
 ### Desserts
 * [Barquettes fondantes au chocolat et banane](http://www.chefnini.com/barquettes-fondantes-au-chocolat-et-banane/?random=1)
