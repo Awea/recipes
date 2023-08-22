@@ -83,7 +83,7 @@
 * [La salade niçoise, la vraie !](http://www.lemanger.fr/index.php/salade-nicoise-vraie/?utm_content=buffer67036&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Salade César](http://www.undejeunerdesoleil.com/2011/11/salade-cesar-caesar-salad.html)
 * [Salade d'aubergines rôties et feta](http://www.undejeunerdesoleil.com/2014/07/salade-aubergines-roties-et-feta.html)
-* [Salade de pois chiches libanaise](http://www.undejeunerdesoleil.com/2015/07/salade-de-pois-chiches-libanaise.html?m=1)
+* [Salade de pois chiches libanaise](https://www.undejeunerdesoleil.com/2015/07/salade-de-pois-chiches-libanaise.html)
 * [Salade grecque](http://www.undejeunerdesoleil.com/2014/06/salade-grecque.html)
 
 #### Toupes
