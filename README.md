@@ -1,6 +1,7 @@
 ## WIP
 
 ### Gumes
+* [Aubergine sauce miso](https://www.youtube.com/watch?app=desktop&v=pEE-QodpiFE)
 * [Champignons sautés au fenouil et romarin](http://www.undejeunerdesoleil.com/2013/10/champignons-sautes-au-fenouil-et-romarin.html)
 * [Dal de lentilles coco](https://www.undejeunerdesoleil.com/2015/09/dal-lentilles-coco.html)
 * [Endives braisées à l'orange, thym et pignons](http://www.undejeunerdesoleil.com/2013/11/endives-braisees-orange.html)
@@ -9,6 +10,7 @@
 * [Gratin de poireaux au parmesan](https://www.lesfruitsetlegumesfrais.com/en-cuisine/recettes/gratin-de-poireaux-au-parmesan)
 * [Gratin de pommes de terre, cèpes et aubergines](http://www.undejeunerdesoleil.com/2012/10/gratin-de-pommes-de-terre-cepes-et.html)
 * [Haricots rouges à la créole](https://www.marmiton.org/recettes/recette_haricots-rouges-a-la-creole_20879.aspx)
+* [Imo mochi](https://www.cuisine-japon.fr/recette-imo-mochi/)
 * [Parmigiana d'aubergines classique](http://www.undejeunerdesoleil.com/2013/07/parmigiana-aubergines-classique.html)
 * [Pâté aux pommes de terre](https://www.chefnini.com/pate-aux-pommes-de-terre/)
 * [Sauce du couscous](https://www.la-cuisine-marocaine.com/forum/sujet-980-sauce-couscous)
@@ -27,6 +29,7 @@
 * [Pesto au basilic](http://www.undejeunerdesoleil.com/2014/10/pesto-au-basilic.html)
 * [Pesto de courgettes](http://www.undejeunerdesoleil.com/2016/05/pesto-courgettes.html)
 * [Pâtes au pesto d'herbes, pousses d'épinards et roquette](http://www.undejeunerdesoleil.com/2014/04/pates-pesto-herbes-epinards-roquette.html)
+* [Puttanesca](https://www.undejeunerdesoleil.com/2012/05/penne-alla-puttanesca-trattoria.html)
 
 ### Poissons
 * [Croquettes de pommes de terre et saumon](http://www.undejeunerdesoleil.com/2015/10/croquettes-pommes-de-terre-saumon.html?m=0)
@@ -120,6 +123,7 @@
 
 ### Desserts
 * [Barquettes fondantes au chocolat et banane](http://www.chefnini.com/barquettes-fondantes-au-chocolat-et-banane/?random=1)
+* [Biscuits aux flocons d’avoine et miel façon Anzac](https://www.undejeunerdesoleil.com/2015/03/biscuits-flocons-avoine-miel-anzac.html)
 * [Brownie au beurre de cacahouètes](http://www.undejeunerdesoleil.com/2014/07/brownie-au-beurre-de-cacahouetes.html)
 * [Brownie chocolat Blanc & Noix de coco](http://recettes-ateliers.over-blog.com/2014/11/brownie-chocolat-blanc-noix-de-coco.html)
 * [Cake à la banane et au golden syrup](http://www.undejeunerdesoleil.com/2015/09/cake-banane-golden-syrup.html)
