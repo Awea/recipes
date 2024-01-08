@@ -54,6 +54,7 @@
 * [Tava (agneau au four, pommes de terre et tomates typique de Cypre)](http://www.undejeunerdesoleil.com/2013/03/Tava-agneau-four-pommes-de-terre-tomates.html)
 
 #### Poulet
+* [À la crème de Mémé Cocard](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Le-poulet-a-la-creme-de-Meme-Cocard-3911421)
 * [Banh Mi](https://www.ricardocuisine.com/recettes/6770-sandwich-au-poulet-a-la-vietnamienne)
 * [Blanc de poulet facon tenders de kfc](http://www.lesfoodies.com/jesscuisto/recette/blanc-poulet-facon-tenders-kfc)
 * [Brochettes de poulet yakitori](http://www.undejeunerdesoleil.com/2016/05/brochettes-poulet-yakitori.html)
