@@ -136,6 +136,7 @@
 * [Cookies au chocolat et à l’huile d’olive](https://www.undejeunerdesoleil.com/2018/02/cookies-chocolat-huile-olive.html)
 * [Crumble](desserts/crumble.md)
 * [Crêpes](https://www.hervecuisine.com/recette/recette-crepe-facile/)
+* [Croûtes à Thé](https://lacuisinedebernard.com/les-croutes-the/)
 * [Fondant au citron](desserts/fondant-citron.md)
 * [Gâteau Breton](https://lacuisinedelya.com/gateau-breton/)
 * [Molly cake au chocolat](https://blog.feeriecake.fr/molly-cake-chocolat/)
