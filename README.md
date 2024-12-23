@@ -33,6 +33,7 @@
 * [Puttanesca](https://www.undejeunerdesoleil.com/2012/05/penne-alla-puttanesca-trattoria.html)
 
 ### Poissons
+* [Crevettes au curry et lait de coco](https://lacarteauxepices.fr/recettes-de-cuisine/plats/crevettes-au-curry-et-lait-de-coco/?doing_wp_cron=1734549538.6647620201110839843750)
 * [Croquettes de pommes de terre et saumon](http://www.undejeunerdesoleil.com/2015/10/croquettes-pommes-de-terre-saumon.html?m=0)
 * [Hamburgers de saumon](http://www.ricardocuisine.com/recettes/5361-hamburgers-de-saumon)
 * [Oeufs durs farcis aux sardines, poivrons et tomates rôtis](http://www.undejeunerdesoleil.com/2015/08/oeufs-durs-farcis-sardines-poivrons-tomates-rotis.html?m=0)
