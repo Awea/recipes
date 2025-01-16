@@ -44,6 +44,7 @@
 ### Viandes
 #### Beef
 * [Boulettes de viande à la tomate et à la mozzarella](http://www.undejeunerdesoleil.com/2014/10/boulettes-viande-tomates-mozzarella.html?m=1)
+* [Carbonade flamande](https://www.undejeunerdesoleil.com/2013/01/carbonade-flamande-ou-carbonnades-la.html)
 * [Courgettes farcies à la viande comme à Rome](http://www.undejeunerdesoleil.com/2014/09/courgettes-farcies-viande-rome.html)
 * [Hachis parmentier](http://www.cuisine-pied-noir.com/recette/recette_5788_hachis-html/)
 * [Mafé de poulet de Maimouna](https://www.cuisineaz.com/recettes/mafe-de-poulet-de-maimouna-14125.aspx)
