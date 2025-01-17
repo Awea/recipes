@@ -63,6 +63,7 @@
 * [Blanc de poulet facon tenders de kfc](http://www.lesfoodies.com/jesscuisto/recette/blanc-poulet-facon-tenders-kfc)
 * [Brochettes de poulet yakitori](http://www.undejeunerdesoleil.com/2016/05/brochettes-poulet-yakitori.html)
 * [Curry thaï de poulet](https://www.undejeunerdesoleil.com/2010/04/curry-thai-de-poulet.html)
+* [Épinards aux Œufs](https://www.youtube.com/watch?v=bSFnJz912XA)
 * [Oyako don](poulet/oyako_don.jpg)
 * [Poulet Balti, sauce Hara Masala (au yaourt, pomme et gingembre)](http://www.undejeunerdesoleil.com/2012/06/poulet-balti-sauce-hara-masala-au.html)
 * [Poulet braisé à l'orange](http://www.undejeunerdesoleil.com/2015/02/poulet-braise-orange.html)
