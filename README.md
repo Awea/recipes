@@ -65,6 +65,7 @@
 * [Curry thaï de poulet](https://www.undejeunerdesoleil.com/2010/04/curry-thai-de-poulet.html)
 * [Épinards aux Œufs](https://www.youtube.com/watch?v=bSFnJz912XA)
 * [Oyako don](poulet/oyako_don.jpg)
+* [Pad thaï](https://www.ricardocuisine.com/recettes/6694-pad-thai-le-meilleur)
 * [Poulet Balti, sauce Hara Masala (au yaourt, pomme et gingembre)](http://www.undejeunerdesoleil.com/2012/06/poulet-balti-sauce-hara-masala-au.html)
 * [Poulet braisé à l'orange](http://www.undejeunerdesoleil.com/2015/02/poulet-braise-orange.html)
 * [Poulet gratiné à la moutarde, pain d'épices et amandes](http://www.undejeunerdesoleil.com/2013/02/poulet-gratin-moutarde-pain-epices-amandes.html)
