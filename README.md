@@ -73,6 +73,7 @@
 * [Poulet à l’orange croustillant façon Panda Express](https://www.hervecuisine.com/recette/poulet-croustillant-a-lorange-facon-panda-express/)
 * [Riz aux œufs à la japonaise](http://gourmandisesansfrontieres.fr/2012/10/riz-aux-oeufs-a-la-japonaise/)
 * [Œufs cocotte en cassolette feuilletée](http://gourmandisesansfrontieres.fr/2013/03/oeufs-cocotte-en-cassolette-feuilletee/)
+* [Œufs pour ramen](https://www.commeaujapon.fr/oeufs-a-ramen-ajitsuke-tamago/)
 
 #### Porc
 * [Champignons farci à la brousse et au jambon](http://ltdv.over-blog.com/2015/04/champignons-farci-a-la-brousse-et-au-jambon.html)
@@ -175,7 +176,6 @@
 * [Hasselback potatoes](http://ltdv.over-blog.com/2015/02/hasselback-potatoes.html)
 * [Melanzane a funghetto (aubergines rissolées à la napolitaine)](http://www.undejeunerdesoleil.com/2012/09/melanzane-funghetto-aubergines.html)
 * [Moussaka végétarienne libanaise](http://www.undejeunerdesoleil.com/2015/09/moussaka-vegetarienne-libanaise.html)
-* [Pad Thai](http://www.undejeunerdesoleil.com/2015/05/reussir-pad-thai-recette-astuces-ingredients-maison-thalilande.html)
 * [Pasta, patate e provola. Pâtes aux pommes de terre et scamorza fumée typiques de la Campanie](http://www.undejeunerdesoleil.com/2012/11/pasta-patate-e-provola-pates-aux-pommes.html)
 * [Pie aux fraises et pomme verte](http://www.undejeunerdesoleil.com/2011/10/pie-aux-fraises-et-pomme-verte-pie-di.html)
 * [Poivrons farcis au thon, à la burrata et aux olives](http://www.undejeunerdesoleil.com/2015/06/poivrons-farcis-thon-burrata-olives.html)
@@ -198,3 +198,12 @@
 * [Taboulé de boulgour, tomates, orange et grenade](http://www.undejeunerdesoleil.com/2015/07/taboule-boulgour-tomates-orange-grenade.html)
 * [Torta di mele : gâteau toscan aux pommes](http://www.undejeunerdesoleil.com/2013/02/torta-di-mele-gateau-toscan-aux-pommes.html)
 * [Aubergines rôties à la Japonaise](https://www.undejeunerdesoleil.com/2016/07/aubergines-roties-japonaise.html)
+* [Chocolate Peanut Butter No Bake Cookies](https://sallysbakingaddiction.com/chocolate-peanut-butter-no-bake-cookies/)
+* [Bao Bun](https://www.cookingwithmorgane.com/fr/bases/Bao-Bun-les-brioches-chinoises-a-garnir.html)
+* [Riz au travers de porc à la mode de Shaanxi](https://recetteschinoises.blogspot.com/2018/04/riz-au-travers-de-porc-la-mode-de.html?m=1)
+* [Doro wat - (Ragout d'oignons et poulet épicé)](https://www.peko-peko.fr/recettes/doro-wat/)
+* [mug cake au chocolat et à la banane Chiquita](https://www.chiquita.fr/recettes/gateau-aux-bananes/le-meilleur-mug-cake-au-chocolat-et-a-la-banane-chiquita/)
+* [Pâte à tartiner ou confiture chocolat banane](https://www.undejeunerdesoleil.com/2014/04/pate-tartiner-ou-confiture-chocolat-banane.html)
+* [Perles de tapioca lait de coco & bananes](https://www.chezmamaly.com/post/perles-de-tapioca-lait-de-coco-bananes-astuces?utm_source=pocket_saves)
+* [Crumble Potimarron](https://www.youtube.com/watch?v=QK5tYtkafGs)
+* [Sandwich de mozzarella](https://www.undejeunerdesoleil.com/2016/08/mozzarella-carrozza-sandwich-frit-italien.html)
