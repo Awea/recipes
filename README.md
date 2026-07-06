@@ -157,6 +157,7 @@
 
 ### Apéro
 - [Caipirinha](https://www.ricardocuisine.com/recettes/3802-caipirinha)
+- [Sablés apéritifs au parmesan et aux noisettes](https://www.undejeunerdesoleil.com/2014/12/sables-aperitifs-parmesan-noisettes.html)
 
 - - -
 
